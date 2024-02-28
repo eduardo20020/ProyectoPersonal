@@ -15,6 +15,16 @@
     <amp-auto-ads type="adsense"
             data-ad-client="ca-pub-2030498521976382">
     </amp-auto-ads>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2030498521976382"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-2030498521976382"
+     data-ad-slot="7708888412"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
     <?php require "PUBLIC/navBar.php"; ?>
     <div class="container">
         <?php require "PUBLIC/carruzel.php"; ?>
