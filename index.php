@@ -12,16 +12,26 @@
 </script>
 </head>
 <body>
-<amp-auto-ads type="adsense"
-        data-ad-client="ca-pub-2030498521976382">
-</amp-auto-ads>
+    <amp-auto-ads type="adsense"
+            data-ad-client="ca-pub-2030498521976382">
+    </amp-auto-ads>
     <?php require "PUBLIC/navBar.php"; ?>
     <div class="container">
         <?php require "PUBLIC/carruzel.php"; ?>
     </div>
-    <div>
-        
-    </div>
+
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2030498521976382"
+        crossorigin="anonymous"></script>
+    <ins class="adsbygoogle"
+        style="display:block"
+        data-ad-format="autorelaxed"
+        data-ad-client="ca-pub-2030498521976382"
+        data-ad-slot="4749938186"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+    
+
 
 
 
