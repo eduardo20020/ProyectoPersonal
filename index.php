@@ -19,6 +19,9 @@
     <div class="container">
         <?php require "PUBLIC/carruzel.php"; ?>
     </div>
+    <div>
+        
+    </div>
 
 
 
