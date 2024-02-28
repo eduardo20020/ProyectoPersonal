@@ -8,8 +8,9 @@
 </head>
 <body>
     <?php require "PUBLIC/navBar.php"; ?>
-    <?php require "PUBLIC/carruzel.php"; ?>
-
+    <div class="container">
+        <?php require "PUBLIC/carruzel.php"; ?>
+    </div>
 
 
 
