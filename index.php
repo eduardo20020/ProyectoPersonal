@@ -9,7 +9,7 @@
 <body>
 
     <?php require "PUBLIC/navBar.php"; ?>
-    <div class="container text-center">
+    <div class="container d-flex justify-content-center">
         <?php require "PUBLIC/carruzel.php"; ?>
     </div>
 
